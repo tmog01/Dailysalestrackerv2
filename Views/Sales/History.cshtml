@@ -1,0 +1,12 @@
+﻿@model IEnumerable<DailySalesTracker.Models.SalesData>
+
+<h1>Sales History (Last 15 Days)</h1>
+<ul>
+    @foreach (var record in Model)
+    {
+        <li>
+            @record.Date.ToShortDateString(): @record.ItemsSold items sold at $@record.ItemPrice each
+            (Total: $@record.TotalSales)
+        </li>
+    }
+</ul>
