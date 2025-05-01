@@ -1,0 +1,7 @@
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\obj\Release\net8.0\PubTmp\Out\DailySalesTracker.exe
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\obj\Release\net8.0\PubTmp\Out\DailySalesTracker.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\obj\Release\net8.0\PubTmp\Out\DailySalesTracker.deps.json
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\obj\Release\net8.0\PubTmp\Out\DailySalesTracker.runtimeconfig.json
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\obj\Release\net8.0\PubTmp\Out\DailySalesTracker.pdb

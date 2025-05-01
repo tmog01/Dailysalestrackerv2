@@ -1,0 +1,346 @@
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\Developer_ENU\SETUP.EXE.CONFIG
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\Developer_ENU\x64\FIXSQLREGISTRYKEY_X64.EXE.CONFIG
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\Developer_ENU\x64\FIXSQLREGISTRYKEY_X86.EXE.CONFIG
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\Developer_ENU\x64\LANDINGPAGE.EXE.CONFIG
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\Developer_ENU\x64\SCENARIOENGINE.EXE.CONFIG
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\appsettings.Development.json
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\appsettings.json
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\DailySalesTracker.staticwebassets.runtime.json
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\DailySalesTracker.staticwebassets.endpoints.json
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\DailySalesTracker.exe
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\DailySalesTracker.deps.json
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\DailySalesTracker.runtimeconfig.json
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\DailySalesTracker.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\DailySalesTracker.pdb
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\Azure.Core.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\Azure.Identity.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\Humanizer.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\System.ClientModel.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\System.CodeDom.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\System.Text.Json.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\obj\Debug\net8.0\DailySalesTracker.csproj.AssemblyReference.cache
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\obj\Debug\net8.0\DailySalesTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\obj\Debug\net8.0\DailySalesTracker.AssemblyInfoInputs.cache
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\obj\Debug\net8.0\DailySalesTracker.AssemblyInfo.cs
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\obj\Debug\net8.0\DailySalesTracker.csproj.CoreCompileInputs.cache
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\obj\Debug\net8.0\DailySalesTracker.MvcApplicationPartsAssemblyInfo.cache
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\obj\Debug\net8.0\DailySalesTracker.RazorAssemblyInfo.cache
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\obj\Debug\net8.0\DailySalesTracker.RazorAssemblyInfo.cs
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\obj\Debug\net8.0\DailySalesTracker.sourcelink.json
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\obj\Debug\net8.0\scopedcss\bundle\DailySalesTracker.styles.css
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\obj\Debug\net8.0\scopedcss\projectbundle\DailySalesTracker.bundle.scp.css
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\obj\Debug\net8.0\staticwebassets.build.json
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\obj\Debug\net8.0\staticwebassets.development.json
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\obj\Debug\net8.0\DailySal.924715A2.Up2Date
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\obj\Debug\net8.0\DailySalesTracker.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\obj\Debug\net8.0\refint\DailySalesTracker.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\obj\Debug\net8.0\DailySalesTracker.pdb
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\obj\Debug\net8.0\DailySalesTracker.genruntimeconfig.cache
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\obj\Debug\net8.0\ref\DailySalesTracker.dll
+C:\Threat Modeling\Discovery Research\My Apps\DailySalesTracker\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\Developer_ENU\SETUP.EXE.CONFIG
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\Developer_ENU\x64\FIXSQLREGISTRYKEY_X64.EXE.CONFIG
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\Developer_ENU\x64\FIXSQLREGISTRYKEY_X86.EXE.CONFIG
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\Developer_ENU\x64\LANDINGPAGE.EXE.CONFIG
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\Developer_ENU\x64\SCENARIOENGINE.EXE.CONFIG
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\appsettings.Development.json
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\appsettings.json
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\DailySalesTracker.staticwebassets.runtime.json
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\DailySalesTracker.staticwebassets.endpoints.json
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\DailySalesTracker.exe
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\DailySalesTracker.deps.json
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\DailySalesTracker.runtimeconfig.json
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\DailySalesTracker.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\DailySalesTracker.pdb
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\Azure.Core.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\Azure.Identity.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\Humanizer.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\System.ClientModel.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\System.CodeDom.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\System.Text.Json.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\obj\Debug\net8.0\DailySalesTracker.csproj.AssemblyReference.cache
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\obj\Debug\net8.0\DailySalesTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\obj\Debug\net8.0\DailySalesTracker.AssemblyInfoInputs.cache
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\obj\Debug\net8.0\DailySalesTracker.AssemblyInfo.cs
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\obj\Debug\net8.0\DailySalesTracker.csproj.CoreCompileInputs.cache
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\obj\Debug\net8.0\DailySalesTracker.MvcApplicationPartsAssemblyInfo.cache
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\obj\Debug\net8.0\DailySalesTracker.RazorAssemblyInfo.cache
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\obj\Debug\net8.0\DailySalesTracker.RazorAssemblyInfo.cs
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\obj\Debug\net8.0\DailySalesTracker.sourcelink.json
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\obj\Debug\net8.0\scopedcss\bundle\DailySalesTracker.styles.css
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\obj\Debug\net8.0\scopedcss\projectbundle\DailySalesTracker.bundle.scp.css
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\obj\Debug\net8.0\staticwebassets.build.json
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\obj\Debug\net8.0\staticwebassets.development.json
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\obj\Debug\net8.0\DailySal.924715A2.Up2Date
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\obj\Debug\net8.0\DailySalesTracker.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\obj\Debug\net8.0\refint\DailySalesTracker.dll
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\obj\Debug\net8.0\DailySalesTracker.pdb
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\obj\Debug\net8.0\DailySalesTracker.genruntimeconfig.cache
+C:\Threat Modeling\Discovery Research\My Apps\Version 2\obj\Debug\net8.0\ref\DailySalesTracker.dll
