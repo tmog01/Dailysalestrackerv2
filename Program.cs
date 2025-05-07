@@ -8,7 +8,7 @@ builder.Services.AddControllersWithViews();
 
 // Add database context (this is added above route mapping)
 builder.Services.AddDbContext<SalesDbContext>(options =>
-    options.UseSqlServer("Server=localhost\\SpringHoneyLocal;Database=SalesDatabase;User Id = sa;Password=$pringH0n3y$$25;TrustServerCertificate=True;"));
+    options.UseSqlServer("Server=localhost\\SpringHoneyLocal;Database=SalesDatabase;User Id = sa;Password="$pringH0n3y$$25";TrustServerCertificate=True;"));
 
 var app = builder.Build();
 
